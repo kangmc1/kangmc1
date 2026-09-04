@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-** 주요 수행 업무 ** 
+**주요 수행 업무** 
 
 - 불확실성 정량화 (Predictive Entropy, Semantic Entropy, SAR)
 - 오류 탐지와 선택적 재생성
@@ -8,7 +8,7 @@
 
 ---
 
-### Researches
+### Research
 
 **Improving Uncertainty Quantification and Knowledge-Intensive Routing via Query Understanding in Large Language Models**
 `PAKDD 2026` `특허 출원` · 제1저자 · 제1발명자 · [paper](https://link.springer.com/chapter/10.1007/978-981-92-1468-6_16) · [code](https://github.com/kangmc1/Improving-Uncertainty-Quantification-via-Query-Understanding)
